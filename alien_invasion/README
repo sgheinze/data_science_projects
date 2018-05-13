@@ -1,0 +1,4 @@
+To play alien invasion:
+   - Download files in "game scripts" folder and place into a single directory
+   - Type python alien_invasion.py
+   - Enjoy! Pressing space causes the ship to shoot and the left and right arrows move the ship.
